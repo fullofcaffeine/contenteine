@@ -1,0 +1,9 @@
+-lib tink_cli
+-lib tink_json
+-cp src
+-main Main
+-D release
+-D mobile
+-js bin/contenteine.js
+
+
